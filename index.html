@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Salman's Blog</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Salman's Blog</h1>
+    </header>
+
+    <!-- Filter Buttons -->
+    <div class="filter-buttons">
+      <button class="filter-btn" data-category="all">All</button>
+      <button class="filter-btn" data-category="Tech">Tech</button>
+      <button class="filter-btn" data-category="Travel">Travel</button>
+      <button class="filter-btn" data-category="Food">Food</button>
+    </div>
+
+    <!-- Search Input -->
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search blog titles..." />
+    </div>
+
+    <!-- Blog Cards -->
+    <section id="blog-container" class="blog-grid"></section>
+
+    <!-- Pagination -->
+    <div id="pagination" class="pagination"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
