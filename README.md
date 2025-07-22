@@ -23,7 +23,10 @@ This is _Task 4_ of my Elevvo Front-End Web Development Internship — a fully r
 - _Responsive Design (Media Queries, Flexbox, CSS Grid)_
 
 ---
+## 🔗 Live Demo
+
+👉 [Click here to view live site](https://muhammad-salman123.github.io/BlogPage-elevvo-task/)
 
 ## 📸 Screenshots
 
-!(blog-homepage.jpeg)
+![Blog Homepage Screenshot](blog-homepage.jpeg)
