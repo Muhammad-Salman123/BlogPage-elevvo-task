@@ -26,4 +26,4 @@ This is _Task 4_ of my Elevvo Front-End Web Development Internship — a fully r
 
 ## 📸 Screenshots
 
-![Blog Homepage Screenshot](blog-homepage.jpeg)
+!(blog-homepage.jpeg)
